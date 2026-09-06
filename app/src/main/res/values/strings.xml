@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Operator</string>
+    <color name="ic_launcher_background">#1B1B1F</color>
+    <string name="accessibility_service_description">
+        Lets Phone Operator read on-screen text and tap/type/scroll on your behalf,
+        only for tasks you ask it to do. You can turn this off anytime in
+        Settings → Accessibility.
+    </string>
+</resources>
