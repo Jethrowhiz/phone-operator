@@ -57,5 +57,5 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
 
     // Encrypted-at-rest storage for the API key (ApiKeyStore) — small, no model weights.
-    implementation("androidx.security:security-crypto:1.1.0-alpha06")
+    implementation("androidx.security:security-crypto:1.1.0")
 }
